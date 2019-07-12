@@ -4,3 +4,5 @@
 Venha aprender comigo neste curso muito supimpa!! xD
 
 Seja bem vindo ao meu repositorio!!
+
+Aqui esta as minha progressão em relação ao JavaScript e git!!
