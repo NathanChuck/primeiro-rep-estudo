@@ -1,2 +1,2 @@
-# primeiro-rep-estudo
-Aprendendo a usar git para estudo de JavaScript 
+# Meu Primeiro Repositorio de Estudo
+Aprendendo a usar git para estudo de JavaScript
